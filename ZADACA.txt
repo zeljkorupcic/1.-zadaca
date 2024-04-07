@@ -1,0 +1,6 @@
+Kreirati lokalni repozitorij
+Dodati script.js file i u njemu napraviti neku promjenu
+Kreirati udaljeni repozitorij
+Promjene zapisati na udaljeni repozitorij
+Napraviti promjenu na lokalnom repozitoriju
+Promjene zapisati na udaljeni repozitorij
